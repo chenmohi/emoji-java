@@ -122,9 +122,11 @@ public class EmojiParser {
         }
       }
     }
-
+    // Sort Emoji Collection
+    List<Emoji> coll = (List<Emoji>) EmojiManager.getAll();
+    Collections.sort(coll, new EmojiComparator());
     // Replace the html
-    for (Emoji emoji : EmojiManager.getAll()) {
+    for (Emoji emoji : coll) {
       result = result.replace(emoji.getHtmlHexadecimal(), emoji.getUnicode());
       result = result.replace(emoji.getHtmlDecimal(), emoji.getUnicode());
     }
