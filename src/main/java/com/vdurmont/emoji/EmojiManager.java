@@ -3,6 +3,7 @@ package com.vdurmont.emoji;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Collection;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -27,6 +28,7 @@ public class EmojiManager {
     try {
       InputStream stream = EmojiLoader.class.getResourceAsStream(PATH);
       List<Emoji> emojis = EmojiLoader.loadEmojis(stream);
+      Collections.sort(emojis, new EmojiComparator());
       ALL_EMOJIS = emojis;
       for (Emoji emoji : emojis) {
         for (String tag : emoji.getTags()) {

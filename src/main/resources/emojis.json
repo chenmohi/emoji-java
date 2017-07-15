@@ -13847,5 +13847,1920 @@
       "female_judge"
     ],
     "tags": []
+  },
+  {
+    "emoji": "☺️",
+    "description": "white smiling face",
+    "aliases": [
+      "relaxed"
+    ],
+    "tags": [
+      "blush",
+      "pleased"
+    ]
+  },
+  {
+    "emoji": "✌🏻️",
+    "description": "victory hand",
+    "supports_fitzpatrick": true,
+    "aliases": [
+      "v"
+    ],
+    "tags": [
+      "victory",
+      "peace"
+    ]
+  },
+  {
+    "emoji": "☝🏻️",
+    "description": "white up pointing index",
+    "supports_fitzpatrick": true,
+    "aliases": [
+      "point_up"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "👨‍👩‍👧‍👦",
+    "description": "family (man, woman, girl, boy)",
+    "aliases": [
+      "family_man_woman_girl_boy"
+    ],
+    "tags": [
+      "family",
+      "man",
+      "woman",
+      "girl"
+    ]
+  },
+  {
+    "emoji": "👩‍❤️‍👩",
+    "description": "couple with heart (woman, woman)",
+    "aliases": [
+      "couple_with_heart_woman_woman"
+    ],
+    "tags": [
+      "couple",
+      "heart",
+      "woman"
+    ]
+  },
+  {
+    "emoji": "👨‍❤️‍👨",
+    "description": "couple with heart (man, man)",
+    "aliases": [
+      "couple_with_heart_man_man"
+    ],
+    "tags": [
+      "couple",
+      "heart",
+      "man"
+    ]
+  },
+  {
+    "emoji": "‍👨‍❤️‍💋‍👨",
+    "description": "couple heart kiss (man, man)",
+    "aliases": [
+      "coupleheartkiss_man_man"
+    ],
+    "tags": [
+      "couple",
+      "kiss",
+      "man"
+    ]
+  },
+  {
+    "emoji": "👨‍❤️‍💋‍👨",
+    "description": "couple heart kiss (man, man)",
+    "aliases": [
+      "coupleheartkiss_man_man"
+    ],
+    "tags": [
+      "couple",
+      "kiss",
+      "man"
+    ]
+  },
+  {
+    "emoji": "‍👨‍❤️‍",
+    "description": "heart kiss (man, man)",
+    "aliases": [
+      "heartkiss_man_man"
+    ],
+    "tags": [
+      "couple",
+      "kiss",
+      "man"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "description": "white frowning face",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "frowning_face"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "☠️",
+    "description": "skull and crossbones",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "skull_crossbones"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👩🏼",
+    "description": "hair girl",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "hair girl"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👱🏼‍♀️",
+    "description": "hair girl",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "hair girl"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👳🏿‍♀️",
+    "description": "bandage head",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "bandage head"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👮‍♀️",
+    "description": "police hat woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "police hat woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👮🏿‍♀️",
+    "description": "police hat woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "police hat woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👷‍♀️",
+    "description": "safety hat woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "police hat woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👷🏾‍♀️",
+    "description": "safety hat woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "police hat woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🏾‍♀️",
+    "description": "high fur hat woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "high fur hat woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "💂🏼‍♀️",
+    "description": "high fur hat woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "high fur hat woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🕵️‍♀️",
+    "description": "felt hat woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "felt hat woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🙇‍♀️",
+    "description": "attentive woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "attentive woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🕵🏿‍♀️",
+    "description": "attentive woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "attentive woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "💁‍♂️",
+    "description": "please man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "please man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "💁🏼‍♂️",
+    "description": "please man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "please man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🙅‍♂️",
+    "description": "stop man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "stop man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🙅🏾‍♂️",
+    "description": "stop man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "stop man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🙆‍♂️",
+    "description": "god man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "god man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🙆🏼‍♂️",
+    "description": "god man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "god man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🙋‍♂️",
+    "description": "hands up man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "hands up man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🙋🏻‍♂️",
+    "description": "hands up man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "hands up man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🙎‍♂️",
+    "description": "stare man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "stare man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🙍‍♂️",
+    "description": "daze man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "daze man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "💇‍♂️",
+    "description": "hair cut man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "hair cut man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "💇🏻‍♂️",
+    "description": "hair cut man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "hair cut man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "💆‍♂️",
+    "description": "head massage man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "head massage man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🙇🏾‍♀️",
+    "description": "head massage woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "head massage woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👯‍♂️",
+    "description": "pas de deux man",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "pas de deux man"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🚶‍♀️",
+    "description": "walk woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "walk woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🚶🏼‍♀️",
+    "description": "walk woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "walk woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🏃‍♀️",
+    "description": "run woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "run woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🏃🏻‍♀️",
+    "description": "run woman",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "run woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👩‍👦",
+    "description": "woman boy",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "woman boy"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👨‍👦",
+    "description": "man boy",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "man boy"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👩‍👧",
+    "description": "woman girl",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "woman girl"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👨‍👧",
+    "description": "man girl",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "man girl"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👩‍👧‍👦",
+    "description": "woman girl boy",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "woman girl boy"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👨‍👧‍👦",
+    "description": "man girl boy",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "man girl boy"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👩‍👦‍👦",
+    "description": "woman boy boy",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "woman boy boy"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👨‍👦‍👦",
+    "description": "man boy boy",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "man boy boy"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👩‍👧‍👧",
+    "description": "woman girl girl",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "woman boy boy"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "👨‍👧‍👧",
+    "description": "man girl girl",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "man boy boy"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "⭐️",
+    "description": "white medium star",
+    "aliases": [
+      "star"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "☀️",
+    "description": "black sun with rays",
+    "aliases": [
+      "sunny"
+    ],
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "emoji": "☁️",
+    "description": "cloud",
+    "aliases": [
+      "cloud"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🌧⛈",
+    "description": "cloud with rain",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "cloud_rain"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "❄️",
+    "description": "snowflake",
+    "aliases": [
+      "snowflake"
+    ],
+    "tags": [
+      "winter",
+      "cold",
+      "weather"
+    ]
+  },
+  {
+    "emoji": "⚡️",
+    "description": "high voltage sign",
+    "aliases": [
+      "zap"
+    ],
+    "tags": [
+      "lightning",
+      "thunder"
+    ]
+  },
+  {
+    "emoji": "⛄️",
+    "description": "snowman without snow",
+    "aliases": [
+      "snowman"
+    ],
+    "tags": [
+      "winter",
+      "christmas"
+    ]
+  },
+  {
+    "emoji": "☔️",
+    "description": "umbrella with rain drops",
+    "aliases": [
+      "umbrella"
+    ],
+    "tags": [
+      "rain",
+      "weather"
+    ]
+  },
+  {
+    "emoji": "☕️",
+    "description": "hot beverage",
+    "aliases": [
+      "coffee"
+    ],
+    "tags": [
+      "cafe",
+      "espresso"
+    ]
+  },
+  {
+    "emoji": "⚽️",
+    "description": "soccer ball",
+    "aliases": [
+      "soccer"
+    ],
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "emoji": "⚾️",
+    "description": "baseball",
+    "aliases": [
+      "baseball"
+    ],
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "emoji": "⛳️",
+    "description": "flag in hole",
+    "aliases": [
+      "golf"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "✈️",
+    "description": "airplane",
+    "aliases": [
+      "airplane"
+    ],
+    "tags": [
+      "flight"
+    ]
+  },
+  {
+    "emoji": "⛵️",
+    "description": "sailboat",
+    "aliases": [
+      "boat",
+      "sailboat"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⚓️",
+    "description": "anchor",
+    "aliases": [
+      "anchor"
+    ],
+    "tags": [
+      "ship"
+    ]
+  },
+  {
+    "emoji": "⛽️",
+    "description": "fuel pump",
+    "aliases": [
+      "fuelpump"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⛲️",
+    "description": "fountain",
+    "aliases": [
+      "fountain"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⛺️",
+    "description": "tent",
+    "aliases": [
+      "tent"
+    ],
+    "tags": [
+      "camping"
+    ]
+  },
+  {
+    "emoji": "⛪️",
+    "description": "church",
+    "aliases": [
+      "church"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⌚️",
+    "description": "watch",
+    "aliases": [
+      "watch"
+    ],
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "description": "black telephone",
+    "aliases": [
+      "phone",
+      "telephone"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⌛️",
+    "description": "hourglass",
+    "aliases": [
+      "hourglass"
+    ],
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "emoji": "✉️",
+    "description": "envelope",
+    "aliases": [
+      "email",
+      "envelope"
+    ],
+    "tags": [
+      "letter"
+    ]
+  },
+  {
+    "emoji": "✂️",
+    "description": "black scissors",
+    "aliases": [
+      "scissors"
+    ],
+    "tags": [
+      "cut"
+    ]
+  },
+  {
+    "emoji": "✒️",
+    "description": "black nib",
+    "aliases": [
+      "black_nib"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "description": "pencil",
+    "aliases": [
+      "pencil2"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🀄️",
+    "description": "mahjong tile red dragon",
+    "aliases": [
+      "mahjong"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🈯️",
+    "description": "squared cjk unified ideograph-6307",
+    "aliases": [
+      "u6307"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🈚️",
+    "description": "squared cjk unified ideograph-7121",
+    "aliases": [
+      "u7121"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🅿️",
+    "description": "negative squared latin capital letter p",
+    "aliases": [
+      "parking"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "description": "heavy black heart",
+    "aliases": [
+      "heart"
+    ],
+    "tags": [
+      "love"
+    ]
+  },
+  {
+    "emoji": "⚠️",
+    "description": "warning sign",
+    "aliases": [
+      "warning"
+    ],
+    "tags": [
+      "wip"
+    ]
+  },
+  {
+    "emoji": "♨️",
+    "description": "hot springs",
+    "aliases": [
+      "hotsprings"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⬆️",
+    "description": "upwards black arrow",
+    "aliases": [
+      "arrow_up"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⬇️",
+    "description": "downwards black arrow",
+    "aliases": [
+      "arrow_down"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⬅️",
+    "description": "leftwards black arrow",
+    "aliases": [
+      "arrow_left"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "➡️",
+    "description": "black rightwards arrow",
+    "aliases": [
+      "arrow_right"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "↗️",
+    "description": "north east arrow",
+    "aliases": [
+      "arrow_upper_right"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "↖️",
+    "description": "north west arrow",
+    "aliases": [
+      "arrow_upper_left"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "↘️",
+    "description": "south east arrow",
+    "aliases": [
+      "arrow_lower_right"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "↙️",
+    "description": "south west arrow",
+    "aliases": [
+      "arrow_lower_left"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "↔️",
+    "description": "left right arrow",
+    "aliases": [
+      "left_right_arrow"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "↕️",
+    "description": "up down arrow",
+    "aliases": [
+      "arrow_up_down"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "◀️",
+    "description": "black left-pointing triangle",
+    "aliases": [
+      "arrow_backward"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "▶️",
+    "description": "black right-pointing triangle",
+    "aliases": [
+      "arrow_forward"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "↩️",
+    "description": "leftwards arrow with hook",
+    "aliases": [
+      "leftwards_arrow_with_hook"
+    ],
+    "tags": [
+      "return"
+    ]
+  },
+  {
+    "emoji": "↪️",
+    "description": "rightwards arrow with hook",
+    "aliases": [
+      "arrow_right_hook"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "ℹ️",
+    "description": "information source",
+    "aliases": [
+      "information_source"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⤵️",
+    "description": "arrow pointing rightwards then curving downwards",
+    "aliases": [
+      "arrow_heading_down"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⤴️",
+    "description": "arrow pointing rightwards then curving upwards",
+    "aliases": [
+      "arrow_heading_up"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♿️",
+    "description": "wheelchair symbol",
+    "aliases": [
+      "wheelchair"
+    ],
+    "tags": [
+      "accessibility"
+    ]
+  },
+  {
+    "emoji": "Ⓜ️",
+    "description": "circled latin capital letter m",
+    "aliases": [
+      "m"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "description": "circled ideograph secret",
+    "aliases": [
+      "secret"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "㊗️",
+    "description": "circled ideograph congratulation",
+    "aliases": [
+      "congratulations"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⛔️",
+    "description": "no entry",
+    "aliases": [
+      "no_entry"
+    ],
+    "tags": [
+      "limit"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "description": "eight spoked asterisk",
+    "aliases": [
+      "eight_spoked_asterisk"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "❇️",
+    "description": "sparkle",
+    "aliases": [
+      "sparkle"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "description": "eight pointed black star",
+    "aliases": [
+      "eight_pointed_black_star"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "description": "black universal recycling symbol",
+    "aliases": [
+      "recycle"
+    ],
+    "tags": [
+      "environment",
+      "green"
+    ]
+  },
+  {
+    "emoji": "♈️",
+    "description": "aries",
+    "aliases": [
+      "aries"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♉️",
+    "description": "taurus",
+    "aliases": [
+      "taurus"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♊️",
+    "description": "gemini",
+    "aliases": [
+      "gemini"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♋️",
+    "description": "cancer",
+    "aliases": [
+      "cancer"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♌️",
+    "description": "leo",
+    "aliases": [
+      "leo"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♍️",
+    "description": "virgo",
+    "aliases": [
+      "virgo"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♎️",
+    "description": "libra",
+    "aliases": [
+      "libra"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♏️",
+    "description": "scorpius",
+    "aliases": [
+      "scorpius"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♐️",
+    "description": "sagittarius",
+    "aliases": [
+      "sagittarius"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♑️",
+    "description": "capricorn",
+    "aliases": [
+      "capricorn"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♒️",
+    "description": "aquarius",
+    "aliases": [
+      "aquarius"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♓️",
+    "description": "pisces",
+    "aliases": [
+      "pisces"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "description": "double exclamation mark",
+    "aliases": [
+      "bangbang"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⁉️",
+    "description": "exclamation question mark",
+    "aliases": [
+      "interrobang"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "❗️",
+    "description": "heavy exclamation mark symbol",
+    "aliases": [
+      "exclamation",
+      "heavy_exclamation_mark"
+    ],
+    "tags": [
+      "bang"
+    ]
+  },
+  {
+    "emoji": "✖️",
+    "description": "heavy multiplication x",
+    "aliases": [
+      "heavy_multiplication_x"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♠️",
+    "description": "black spade suit",
+    "aliases": [
+      "spades"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "description": "black heart suit",
+    "aliases": [
+      "hearts"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♣️",
+    "description": "black club suit",
+    "aliases": [
+      "clubs"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "♦️",
+    "description": "black diamond suit",
+    "aliases": [
+      "diamonds"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "✅️",
+    "description": "white heavy check mark",
+    "aliases": [
+      "white_check_mark"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "☑️",
+    "description": "ballot box with check",
+    "aliases": [
+      "ballot_box_with_check"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "〽️",
+    "description": "part alternation mark",
+    "aliases": [
+      "part_alternation_mark"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "description": "black medium square",
+    "aliases": [
+      "black_medium_square"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "◻️",
+    "description": "white medium square",
+    "aliases": [
+      "white_medium_square"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "◾️",
+    "description": "black medium small square",
+    "aliases": [
+      "black_medium_small_square"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "◽️",
+    "description": "white medium small square",
+    "aliases": [
+      "white_medium_small_square"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "description": "black small square",
+    "aliases": [
+      "black_small_square"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "description": "white small square",
+    "aliases": [
+      "white_small_square"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⚫️",
+    "description": "medium black circle",
+    "aliases": [
+      "black_circle"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⚪️",
+    "description": "medium white circle",
+    "aliases": [
+      "white_circle"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🔴️",
+    "description": "large red circle",
+    "aliases": [
+      "red_circle"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🔵️",
+    "description": "large blue circle",
+    "aliases": [
+      "large_blue_circle"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⬜️",
+    "description": "white large square",
+    "aliases": [
+      "white_large_square"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⬛️",
+    "description": "black large square",
+    "aliases": [
+      "black_large_square"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "✔️",
+    "description": "heavy check mark",
+    "aliases": [
+      "heavy_check_mark"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⭕️",
+    "description": "heavy large circle",
+    "aliases": [
+      "o"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "1️⃣",
+    "description": "digit one + combining enclosing keycap",
+    "aliases": [
+      "one"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "2️⃣",
+    "description": "digit two + combining enclosing keycap",
+    "aliases": [
+      "two"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "3️⃣",
+    "description": "digit three + combining enclosing keycap",
+    "aliases": [
+      "three"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "4️⃣",
+    "description": "digit four + combining enclosing keycap",
+    "aliases": [
+      "four"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "5️⃣",
+    "description": "digit five + combining enclosing keycap",
+    "aliases": [
+      "five"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "6️⃣",
+    "description": "digit six + combining enclosing keycap",
+    "aliases": [
+      "six"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "7️⃣",
+    "description": "digit seven + combining enclosing keycap",
+    "aliases": [
+      "seven"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "8️⃣",
+    "description": "digit eight + combining enclosing keycap",
+    "aliases": [
+      "eight"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "9️⃣",
+    "description": "digit nine + combining enclosing keycap",
+    "aliases": [
+      "nine"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "0️⃣",
+    "description": "digit zero + combining enclosing keycap",
+    "aliases": [
+      "zero"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "#️⃣",
+    "description": "number sign + combining enclosing keycap",
+    "aliases": [
+      "hash"
+    ],
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "emoji": "*️⃣",
+    "description": "keycap asterisk",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "keycap_asterisk",
+      "star_keycap"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "✌️",
+    "description": "victory hand",
+    "supports_fitzpatrick": true,
+    "aliases": [
+      "v"
+    ],
+    "tags": [
+      "victory",
+      "peace"
+    ]
+  },
+  {
+    "emoji": "⛅️",
+    "description": "sun behind cloud",
+    "aliases": [
+      "partly_sunny"
+    ],
+    "tags": [
+      "weather",
+      "cloud"
+    ]
+  },
+  {
+    "emoji": "🏼‍♀️",
+    "description": "man with turban",
+    "supports_fitzpatrick": true,
+    "aliases": [
+      "man_with_turban"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🏿‍♀️",
+    "description": "police officer",
+    "supports_fitzpatrick": true,
+    "aliases": [
+      "cop"
+    ],
+    "tags": [
+      "police",
+      "law"
+    ]
+  },
+  {
+    "emoji": "💂♀️",
+    "description": "guardsman",
+    "supports_fitzpatrick": true,
+    "aliases": [
+      "guardsman"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "☘️",
+    "description": "clover",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "clover"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "☄️",
+    "description": "comet",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "comet",
+      "light_beam",
+      "blue_beam"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "☃️",
+    "description": "snowman with snow",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "snowman_with_snow",
+      "snowing_snowman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "☂️",
+    "description": "open umbrella",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "open_umbrella"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🏋🏻‍♀️",
+    "description": "weight lifter",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "weight_lifter"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "⛹🏼‍♀️",
+    "description": "basketball woman",
+    "aliases": [
+      "basketball woman"
+    ],
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "emoji": "🏌️‍♀️",
+    "description": "woman golfing",
+    "supports_fitzpatrick": true,
+    "aliases": [
+      "woman_golfer",
+      "female_golfer",
+      "woman_golfing",
+      "female_golfing"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🏄🏽‍♀️",
+    "description": "surfer woman",
+    "supports_fitzpatrick": true,
+    "aliases": [
+      "surfer"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🏊🏽‍♀️",
+    "description": "swimmer woman",
+    "supports_fitzpatrick": true,
+    "aliases": [
+      "swimmer"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🚣🏾‍♀️",
+    "description": "rowboat woman",
+    "aliases": [
+      "rowboat"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🚴🏽‍♀️",
+    "description": "ride bicycle woman",
+    "aliases": [
+      "ride bicycle"
+    ],
+    "tags": [
+      "ride bicycle"
+    ]
+  },
+  {
+    "emoji": "🚵🏽‍♀️",
+    "description": "ride bike woman",
+    "aliases": [
+      "ride bike"
+    ],
+    "tags": [
+      "ride bike"
+    ]
+  },
+  {
+    "emoji": "⌨️",
+    "description": "keyboard",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "keyboard"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "⚙️",
+    "description": "gear",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "gear"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "⚰️",
+    "description": "coffin",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "coffin",
+      "funeral",
+      "casket"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "⚔️",
+    "description": "crossed swords",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "crossed_swords"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "⚱️",
+    "description": "funeral urn",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "funeral_urn"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "⚗️",
+    "description": "alembic",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "alembic"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "⚖️",
+    "description": "scales of justice",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "scales",
+      "scales_of_justice"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🏳️‍🌈",
+    "description": "colorful flag",
+    "aliases": [
+      "colorful_flag"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "❣️",
+    "description": "heavy heart exclamation mark ornament",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "exclamation_heart"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "☮️",
+    "description": "peace symbol",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "peace_symbol",
+      "peace_sign"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "✝️",
+    "description": "latin cross",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "latin_cross",
+      "christian_cross"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🕍️",
+    "description": "synagogue with star of David",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "synagogue",
+      "temple",
+      "jewish"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "☸️",
+    "description": "wheel of Dharma",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "wheel_of_dharma"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "☯️",
+    "description": "yin yang",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "yin_yang"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "☦️",
+    "description": "orthodox cross",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "orthodox_cross"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "☪️",
+    "description": "star and crescent",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "star_and_crescent",
+      "star_crescent"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🅰️",
+    "description": "negative squared latin capital letter a",
+    "aliases": [
+      "a"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🅱️",
+    "description": "negative squared latin capital letter b",
+    "aliases": [
+      "b"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🆎️",
+    "description": "negative squared ab",
+    "aliases": [
+      "ab"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "description": "negative squared latin capital letter o",
+    "aliases": [
+      "o2"
+    ],
+    "tags": [
+    ]
+  },
+  {
+    "emoji": "⚜️",
+    "description": "fleur-de-lis",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "fleur_de_lis",
+      "scouts"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "⚛️",
+    "description": "atom symbol",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "atom",
+      "atom_symbol"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "☣️",
+    "description": "biohazard symbol",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "biohazard",
+      "biohazard_symbol",
+      "biohazard_sign"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "✡️",
+    "description": "star of David",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "star_of_david"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "☢️",
+    "description": "radioactive symbol",
+    "supports_fitzpatrick": false,
+    "aliases": [
+      "radioactive",
+      "radioactive_symbol",
+      "radioactive_sign"
+    ],
+    "tags": []
   }
+  
 ]
